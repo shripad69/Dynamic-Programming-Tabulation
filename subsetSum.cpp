@@ -33,4 +33,4 @@ bool isSubsetSum(vector<int>& arr, int sum) {
             }
         }
         return dp[n][sum];
-    }
+}
